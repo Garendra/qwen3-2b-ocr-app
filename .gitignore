@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+*.sqlite3
+
+# Streamlit / user uploads / temp
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+tmp/
+temp/
+*.log
+
+# Docker
+*.env
+docker-compose.override.yml
+**/Dockerfile
+**/docker-compose.override.yml
+**/docker-compose.override.yml
+**/docker-compose.override.yaml
+
+# vLLM / models / checkpoints
+vllm_weights/
+models/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.json  # if you store local model configs
+*.index.json
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

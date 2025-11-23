@@ -1,6 +1,6 @@
-# Qwen2.5-VL OCR Deployment
+# Qwen3-2B-VL OCR Deployment
 
-This project provides a Dockerized setup to run **Qwen2.5-VL-3B-Instruct-AWQ** with **vLLM** and a **Streamlit frontend** for performing OCR on PDF documents.
+This project provides a Dockerized setup to run **Qwen3-2B-VL** with **vLLM** @ FP8 (testing on a 3060 12GB) and a **Streamlit frontend** for performing OCR on PDF documents.
 
 ---
 
@@ -8,7 +8,7 @@ This project provides a Dockerized setup to run **Qwen2.5-VL-3B-Instruct-AWQ** w
 
 * Upload PDF files via Streamlit UI
 * Rasterizes PDF pages to images
-* Sends images to Qwen2.5-VL for text extraction
+* Sends images to Qwen3-2B-VL for text extraction
 * View extracted text per page in the browser
 * Download combined OCR output as a `.txt` file
 
@@ -43,18 +43,19 @@ vllmocrexp/
 1. **Clone the repo**
 
 ```bash
-git clone <your-repo-url>
-cd vllmocrexp
+git clone https://github.com/ikantkode/qwen3-2b-ocr-app
+cd qwen3-2b-ocr-app
 ```
 
 2. **Build and start the containers**
 
 ```bash
-docker compose build --no-cache
-docker compose up
+docker compose build --no-cache && docker compose up
+OR
+docker compose build --no-cache && docker compose up -d
 ```
 
-* `qwen-vlm` container runs the Qwen2.5-VL model with vLLM
+* `qwen-vlm` container runs the Qwen3-2B-VL model with vLLM
 * `streamlit-ui` container runs the frontend at: [http://localhost:8501](http://localhost:8501)
 
 3. **Upload a PDF in the Streamlit UI**

